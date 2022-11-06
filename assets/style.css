@@ -31,13 +31,11 @@ img {
 ul {
     padding-left: 40px;
     font-size: 20px;
-
 }
 
 p {
     text-align: center;
     font-size: 30px;
-
 }
 
 .card {
@@ -45,5 +43,4 @@ p {
     margin: 40px auto;
     border: 5px solid gray;
     box-shadow: 5px 10px #888888;
-
-}
+}  
